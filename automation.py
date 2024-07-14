@@ -7,13 +7,17 @@ import time
 
 # List of search queries
 search_queries = [
-    "Python programming",
-    "JavaScript tutorials",
-    "Node.js best practices",
+    "Python",
+    "JavaScript ",
+    "Node.js",
     "MongoDB vs SQL",
+    "SQL",
+    "MongoDB",
     "React vs Angular",
-    "Machine learning basics",
-    "Neural networks explained",
+    "React",
+    "Angular",
+    "Machine learning ",
+    "Neural networks ",
     "Hypothesis testing in statistics",
     "Web development trends 2024",
     "Face recognition technology",
